@@ -2,6 +2,15 @@
 
 php 开发工具
 
+## Installation
+
+Install the package through [Composer](http://getcomposer.org/). 
+
+Run the Composer require command from the Terminal:
+
+```
+composer require hopher/sdk
+```
 
 ## License
 
