@@ -1,0 +1,22 @@
+{
+    "name": "hopher/sdk",
+    "description": "hopher's php sdk",
+    "keywords": ["php", "sdk"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hopher",
+            "email": "565983236@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "Hopher\\Sdk\\":"src/"
+        }
+    }    
+}
