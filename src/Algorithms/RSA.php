@@ -1,5 +1,7 @@
 <?php
 
+namespace Hopher\Algorithms;
+
 /**
  * 非对称加密算法
  */
